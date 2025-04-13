@@ -1,0 +1,273 @@
+State/UT,Year,Predicted Fatalities
+Andhra Pradesh,2023,7829
+Andhra Pradesh,2024,7798
+Andhra Pradesh,2025,7767
+Andhra Pradesh,2026,7736
+Andhra Pradesh,2027,7704
+Andhra Pradesh,2028,7673
+Andhra Pradesh,2029,7642
+Andhra Pradesh,2030,7611
+Arunachal Pradesh,2023,138
+Arunachal Pradesh,2024,139
+Arunachal Pradesh,2025,140
+Arunachal Pradesh,2026,142
+Arunachal Pradesh,2027,143
+Arunachal Pradesh,2028,144
+Arunachal Pradesh,2029,145
+Arunachal Pradesh,2030,146
+Assam,2023,3128
+Assam,2024,3192
+Assam,2025,3255
+Assam,2026,3319
+Assam,2027,3382
+Assam,2028,3446
+Assam,2029,3510
+Assam,2030,3573
+Bihar,2023,8757
+Bihar,2024,9216
+Bihar,2025,9675
+Bihar,2026,10134
+Bihar,2027,10593
+Bihar,2028,11052
+Bihar,2029,11512
+Bihar,2030,11971
+Chhattisgarh,2023,5693
+Chhattisgarh,2024,5904
+Chhattisgarh,2025,6114
+Chhattisgarh,2026,6325
+Chhattisgarh,2027,6536
+Chhattisgarh,2028,6747
+Chhattisgarh,2029,6958
+Chhattisgarh,2030,7168
+Goa,2023,234
+Goa,2024,224
+Goa,2025,215
+Goa,2026,205
+Goa,2027,195
+Goa,2028,185
+Goa,2029,175
+Goa,2030,166
+Gujarat,2023,6987
+Gujarat,2024,6858
+Gujarat,2025,6729
+Gujarat,2026,6601
+Gujarat,2027,6472
+Gujarat,2028,6343
+Gujarat,2029,6215
+Gujarat,2030,6086
+Haryana,2023,4877
+Haryana,2024,4879
+Haryana,2025,4881
+Haryana,2026,4883
+Haryana,2027,4885
+Haryana,2028,4887
+Haryana,2029,4889
+Haryana,2030,4891
+Himachal Pradesh,2023,988
+Himachal Pradesh,2024,961
+Himachal Pradesh,2025,935
+Himachal Pradesh,2026,908
+Himachal Pradesh,2027,881
+Himachal Pradesh,2028,854
+Himachal Pradesh,2029,827
+Himachal Pradesh,2030,800
+Jammu & Kashmir,2023,768
+Jammu & Kashmir,2024,742
+Jammu & Kashmir,2025,715
+Jammu & Kashmir,2026,689
+Jammu & Kashmir,2027,663
+Jammu & Kashmir,2028,637
+Jammu & Kashmir,2029,611
+Jammu & Kashmir,2030,585
+Jharkhand,2023,3916
+Jharkhand,2024,4042
+Jharkhand,2025,4167
+Jharkhand,2026,4292
+Jharkhand,2027,4417
+Jharkhand,2028,4543
+Jharkhand,2029,4668
+Jharkhand,2030,4793
+Karnataka,2023,10735
+Karnataka,2024,10737
+Karnataka,2025,10740
+Karnataka,2026,10742
+Karnataka,2027,10745
+Karnataka,2028,10747
+Karnataka,2029,10750
+Karnataka,2030,10752
+Kerala,2023,3720
+Kerala,2024,3661
+Kerala,2025,3603
+Kerala,2026,3544
+Kerala,2027,3485
+Kerala,2028,3426
+Kerala,2029,3367
+Kerala,2030,3308
+Madhya Pradesh,2023,13343
+Madhya Pradesh,2024,13871
+Madhya Pradesh,2025,14400
+Madhya Pradesh,2026,14929
+Madhya Pradesh,2027,15457
+Madhya Pradesh,2028,15986
+Madhya Pradesh,2029,16515
+Madhya Pradesh,2030,17044
+Maharashtra,2023,13767
+Maharashtra,2024,13908
+Maharashtra,2025,14048
+Maharashtra,2026,14189
+Maharashtra,2027,14329
+Maharashtra,2028,14469
+Maharashtra,2029,14610
+Maharashtra,2030,14750
+Manipur,2023,117
+Manipur,2024,113
+Manipur,2025,109
+Manipur,2026,105
+Manipur,2027,101
+Manipur,2028,97
+Manipur,2029,93
+Manipur,2030,89
+Meghalaya,2023,175
+Meghalaya,2024,176
+Meghalaya,2025,178
+Meghalaya,2026,179
+Meghalaya,2027,180
+Meghalaya,2028,182
+Meghalaya,2029,183
+Meghalaya,2030,184
+Mizoram,2023,63
+Mizoram,2024,62
+Mizoram,2025,60
+Mizoram,2026,59
+Mizoram,2027,57
+Mizoram,2028,56
+Mizoram,2029,55
+Mizoram,2030,53
+Nagaland,2023,53
+Nagaland,2024,54
+Nagaland,2025,55
+Nagaland,2026,56
+Nagaland,2027,56
+Nagaland,2028,57
+Nagaland,2029,58
+Nagaland,2030,58
+Odisha,2023,5523
+Odisha,2024,5670
+Odisha,2025,5818
+Odisha,2026,5965
+Odisha,2027,6113
+Odisha,2028,6260
+Odisha,2029,6408
+Odisha,2030,6555
+Punjab,2023,4396
+Punjab,2024,4352
+Punjab,2025,4307
+Punjab,2026,4263
+Punjab,2027,4218
+Punjab,2028,4174
+Punjab,2029,4129
+Punjab,2030,4085
+Rajasthan,2023,10295
+Rajasthan,2024,10287
+Rajasthan,2025,10280
+Rajasthan,2026,10272
+Rajasthan,2027,10265
+Rajasthan,2028,10257
+Rajasthan,2029,10250
+Rajasthan,2030,10242
+Sikkim,2023,73
+Sikkim,2024,74
+Sikkim,2025,74
+Sikkim,2026,74
+Sikkim,2027,75
+Sikkim,2028,75
+Sikkim,2029,75
+Sikkim,2030,76
+Tamil Nadu,2023,16709
+Tamil Nadu,2024,16819
+Tamil Nadu,2025,16929
+Tamil Nadu,2026,17039
+Tamil Nadu,2027,17149
+Tamil Nadu,2028,17259
+Tamil Nadu,2029,17368
+Tamil Nadu,2030,17478
+Telangana,2023,7348
+Telangana,2024,7409
+Telangana,2025,7470
+Telangana,2026,7531
+Telangana,2027,7592
+Telangana,2028,7652
+Telangana,2029,7713
+Telangana,2030,7774
+Tripura,2023,228
+Tripura,2024,231
+Tripura,2025,235
+Tripura,2026,239
+Tripura,2027,243
+Tripura,2028,247
+Tripura,2029,251
+Tripura,2030,255
+Uttarakhand,2023,884
+Uttarakhand,2024,879
+Uttarakhand,2025,873
+Uttarakhand,2026,868
+Uttarakhand,2027,862
+Uttarakhand,2028,857
+Uttarakhand,2029,852
+Uttarakhand,2030,846
+Uttar Pradesh,2023,23318
+Uttar Pradesh,2024,23953
+Uttar Pradesh,2025,24588
+Uttar Pradesh,2026,25223
+Uttar Pradesh,2027,25858
+Uttar Pradesh,2028,26493
+Uttar Pradesh,2029,27128
+Uttar Pradesh,2030,27763
+West Bengal,2023,5573
+West Bengal,2024,5514
+West Bengal,2025,5454
+West Bengal,2026,5395
+West Bengal,2027,5335
+West Bengal,2028,5276
+West Bengal,2029,5216
+West Bengal,2030,5157
+Andaman & Nicobar Islands,2023,16
+Andaman & Nicobar Islands,2024,15
+Andaman & Nicobar Islands,2025,14
+Andaman & Nicobar Islands,2026,14
+Andaman & Nicobar Islands,2027,13
+Andaman & Nicobar Islands,2028,12
+Andaman & Nicobar Islands,2029,11
+Andaman & Nicobar Islands,2030,11
+Chandigarh,2023,65
+Chandigarh,2024,57
+Chandigarh,2025,49
+Chandigarh,2026,41
+Chandigarh,2027,33
+Chandigarh,2028,25
+Chandigarh,2029,16
+Chandigarh,2030,8
+Dadra & Nagar Haveli &Daman&diu,2023,81
+Dadra & Nagar Haveli &Daman&diu,2024,82
+Dadra & Nagar Haveli &Daman&diu,2025,82
+Dadra & Nagar Haveli &Daman&diu,2026,82
+Dadra & Nagar Haveli &Daman&diu,2027,83
+Dadra & Nagar Haveli &Daman&diu,2028,83
+Dadra & Nagar Haveli &Daman&diu,2029,83
+Dadra & Nagar Haveli &Daman&diu,2030,84
+Delhi,2023,1261
+Delhi,2024,1213
+Delhi,2025,1165
+Delhi,2026,1117
+Delhi,2027,1069
+Delhi,2028,1021
+Delhi,2029,973
+Delhi,2030,924
+Lakshadweep,2023,2
+Lakshadweep,2024,2
+Lakshadweep,2025,2
+Lakshadweep,2026,2
+Lakshadweep,2027,2
+Lakshadweep,2028,2
+Lakshadweep,2029,2
+Lakshadweep,2030,3
